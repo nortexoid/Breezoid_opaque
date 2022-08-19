@@ -1,6 +1,6 @@
 # Breezoid_opaque
 
-An opaque version of KDE Plasma's breeze plasma theme ("style"). The panel has been slightly modified os that running apps do not have a colored background.
+An opaque version of KDE Plasma's breeze plasma theme ("style"). The panel has been slightly modified so that running apps do not have a colored background.
 
 ![alt text](Screenshot.png)
 
